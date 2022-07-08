@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int num1,num2,i;
-	char op;
+	char op;#operator
 for(i=1;i<=10;i++)
 {
 	cout<<"Enter first number: ";
